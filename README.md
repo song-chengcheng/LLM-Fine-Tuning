@@ -51,3 +51,5 @@ pip install -e ".[torch,metrics]"
 ```bash
 llamafactory-cli webui
 ```
+
+images/image.png
