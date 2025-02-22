@@ -53,3 +53,9 @@ llamafactory-cli webui
 ```
 
 ![](https://github.com/song-chengcheng/LLM-Fine-Tuning/blob/main/images/image.png)
+
+## 训练
+```bash
+export NCCL_P2P_DISABLE=1
+export NCCL_IB_DISABLE=1
+```
