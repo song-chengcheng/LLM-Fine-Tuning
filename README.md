@@ -52,4 +52,4 @@ pip install -e ".[torch,metrics]"
 llamafactory-cli webui
 ```
 
-images/image.png
+![](https://github.com/song-chengcheng/LLM-Fine-Tuning/blob/main/images/image.png)
